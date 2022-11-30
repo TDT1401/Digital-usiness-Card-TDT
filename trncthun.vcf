@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Đức Thuận ;Trần ;;;
+FN:Trần  Đức Thuận 
+ORG:
+ADR;TYPE=WORK:
+TITLE:Web Developer 
+TEL;TYPE=CELL:0854322789
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:thuantran347@gmail.com 
+URL;TYPE=Digital Business Card:
+URL:https://github.com/TDT1401
+URL;TYPE=Website:https://github.com/TDT1401
+URL;TYPE=Facebook:https://facebook.com/TDT1401
+URL;TYPE=GitHub:https://github.com/TDT1401
+URL;TYPE=GitLab:https://gitlab.com/TDT1401
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100299455
+END:VCARD
